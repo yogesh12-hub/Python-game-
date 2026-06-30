@@ -38,4 +38,4 @@ else:
          (uin == "Paper" and comp == "Rock") or \
          (uin == "Scissor" and comp == "Paper"):
         print("You Win")
-
+print("Thank You")
